@@ -1,0 +1,7 @@
+D:\Test Extremax\Set-01-net\B.1. Tree to List\obj\Debug\B.1. Tree to List.csprojAssemblyReference.cache
+D:\Test Extremax\Set-01-net\B.1. Tree to List\obj\Debug\B.1. Tree to List.csproj.CoreCompileInputs.cache
+D:\Test Extremax\Set-01-net\B.1. Tree to List\bin\Debug\TreeToList.exe.config
+D:\Test Extremax\Set-01-net\B.1. Tree to List\bin\Debug\TreeToList.exe
+D:\Test Extremax\Set-01-net\B.1. Tree to List\bin\Debug\TreeToList.pdb
+D:\Test Extremax\Set-01-net\B.1. Tree to List\obj\Debug\TreeToList.exe
+D:\Test Extremax\Set-01-net\B.1. Tree to List\obj\Debug\TreeToList.pdb
