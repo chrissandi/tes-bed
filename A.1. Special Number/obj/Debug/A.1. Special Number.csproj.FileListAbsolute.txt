@@ -5,3 +5,10 @@ D:\Test Extremax\Set-01-net\A.1. Special Number\obj\Debug\A.1. Special Number.cs
 D:\Test Extremax\Set-01-net\A.1. Special Number\obj\Debug\A.1. Special Number.csproj.CoreCompileInputs.cache
 D:\Test Extremax\Set-01-net\A.1. Special Number\obj\Debug\SpecialNumber.exe
 D:\Test Extremax\Set-01-net\A.1. Special Number\obj\Debug\SpecialNumber.pdb
+D:\tes\Set-01\A.1. Special Number\bin\Debug\SpecialNumber.exe.config
+D:\tes\Set-01\A.1. Special Number\bin\Debug\SpecialNumber.exe
+D:\tes\Set-01\A.1. Special Number\bin\Debug\SpecialNumber.pdb
+D:\tes\Set-01\A.1. Special Number\obj\Debug\A.1. Special Number.csprojAssemblyReference.cache
+D:\tes\Set-01\A.1. Special Number\obj\Debug\A.1. Special Number.csproj.CoreCompileInputs.cache
+D:\tes\Set-01\A.1. Special Number\obj\Debug\SpecialNumber.exe
+D:\tes\Set-01\A.1. Special Number\obj\Debug\SpecialNumber.pdb
